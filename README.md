@@ -1,6 +1,6 @@
 # pomodoro
 
-> Um PWA para colocar em prática a técniaca de pomodoro
+> Um PWA para colocar em prática a técnica de pomodoro
 
 ## Build Setup
 
